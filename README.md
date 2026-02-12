@@ -32,3 +32,11 @@ FEATURES
 ✔ Database Connectivity
 ✔ Layered MVC Architecture
 ✔ Error Handling Pages
+OUTPUT
+<img width="1652" height="633" alt="Screenshot 2026-02-12 093750" src="https://github.com/user-attachments/assets/f25bdc71-4346-4781-9b0e-320c2fdcbbd6" />
+<img width="1376" height="1033" alt="image" src="https://github.com/user-attachments/assets/1dc60292-2f32-4ee4-9d78-295e64fdb828" />
+<img width="1550" height="437" alt="image" src="https://github.com/user-attachments/assets/8ae08e6e-6da0-4c0f-9687-9d3e2f31940d" />
+<img width="1649" height="1167" alt="image" src="https://github.com/user-attachments/assets/b2774909-8759-4716-87f8-0d0a9667a241" />
+
+
+
